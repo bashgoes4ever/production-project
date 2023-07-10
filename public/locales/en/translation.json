@@ -1,5 +1,10 @@
 {
   "Привет мир": "Hello world!",
   "Перевод": "Translate",
-  "Язык": "English"
+  "Язык": "English",
+  "Страница не найдена": "Page not found",
+  "Главная": "Home",
+  "О сайте": "About Page",
+  "Возникла непредвиденная ошибка": "Unexpected error has occured",
+  "Обновить страницу": "Refresh the page"
 }
